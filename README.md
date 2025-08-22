@@ -47,6 +47,6 @@ Each project demonstrates practical data analysis, business insights, and automa
 ## 📬 Contact  
 - 📧 Email: [soumygupta4@gmail.com](mailto:soumygupta4@gmail.com)  
 - 🔗 LinkedIn: [Soumy Gupta](https://www.linkedin.com/in/soumy-gupta-87ab67239/)  
-- 💻 GitHub: [Souy1221](https://github.com/Souy1221)  
+- 💻 GitHub: [Soumy1221](https://github.com/Souy1221)  
 
 ---
